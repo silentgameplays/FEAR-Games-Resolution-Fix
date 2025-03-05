@@ -6,5 +6,9 @@ FEAR Games Resolution Fixes
  * Windows:  C:\Program Files (x86)\Steam\steamapps\common\FEAR Ultimate Shooter Edition
  * Linux: /home/user/.local/share/Steam/steamapps/common/FEAR Ultimate Shooter Edition use Custom Proton 9.22 from https://github.com/GloriousEggroll/proton-ge-custom/releases for it to pick the .dlls
 3. Sound Fix for Fear 2 in Windows 10/11 is to set your Audio to Spartial Sound
-4. Soud Fix For Fear 2 in Linux is to set the parameters in General WINEDLLOVERRIDES="X3Daudio1_5=n" %command%
+4. Sound Fix For Fear 2 in Linux is to set the parameters in General WINEDLLOVERRIDES="X3Daudio1_5=n" %command%
+
+Credit goes to EchoPatch creator.
+
+
  
